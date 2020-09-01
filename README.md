@@ -1,6 +1,6 @@
 # Installation
 
-##Stable release
+## Stable release
 
 ```bash
 pip install hcloud
